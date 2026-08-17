@@ -3,7 +3,7 @@ package Constructor;
 public class TestCuadrado {
     public static void main(String[] args) {
 
-        Cuadrado c = new Cuadrado(4);
+        Cuadrado c = new Cuadrado(5);
 
         System.out.println("=== DATOS INICIALES DEL CUADRADO ===");
         System.out.println("Lado: " + c.getLado());
